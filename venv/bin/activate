@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=$(cygpath "C:/Users/carlo/Downloads/Quinto/web avanzado/practica3/jing2_lab2/laboratorio-jinga2-group-2/venv")
+VIRTUAL_ENV=$(cygpath "C:/Users/carlo/Downloads/Quinto/web avanzado/practica2/jinga2_lab2/laboratorio-jinga2-group-2/venv")
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

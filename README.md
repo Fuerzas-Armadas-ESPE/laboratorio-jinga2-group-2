@@ -1,11 +1,11 @@
 Inventario en Django
-------------------------
 Descripción
 Este proyecto es un inventario de productos, donde se pueden agregar, editar y eliminar productos. Además, se pueden ver los detalles de cada producto.
 
 Requerimientos
+...............
 Python 3.12
-Django 4.2 .
+Django 4.2
 Instalación
 Clonar el repositorio
 Crear un entorno virtual
