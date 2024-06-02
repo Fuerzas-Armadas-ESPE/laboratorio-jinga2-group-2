@@ -4,7 +4,7 @@ Este proyecto es un inventario de productos, donde se pueden agregar, editar y e
 
 Requerimientos
 Python 3.12
-Django 4.2
+Django 4.2 .
 Instalación
 Clonar el repositorio
 Crear un entorno virtual
