@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import Producto
+from .models import Producto # importamos el modelo Producto
 
-# Register your models here.
+admin.site.register(Producto) # registramos el modelo Producto en el admin que no es tan necesario pero es una buena practica
