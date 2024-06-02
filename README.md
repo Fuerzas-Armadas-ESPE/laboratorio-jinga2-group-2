@@ -1,4 +1,5 @@
 Inventario en Django
+------------------------
 Descripción
 Este proyecto es un inventario de productos, donde se pueden agregar, editar y eliminar productos. Además, se pueden ver los detalles de cada producto.
 
